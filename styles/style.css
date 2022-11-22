@@ -8,3 +8,28 @@
 .material-icons.md-24 { font-size: 24px; }
 .material-icons.md-36 { font-size: 36px; }
 .material-icons.md-48 { font-size: 48px; }
+
+.bg-info {
+    background-color: #083F4E !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #53878A !important;
+}
+
+.btn-primary {
+    color: #50AB98 !important;
+    font-size: 150% !important;
+    background-color: #013C4C !important;
+    border-color: #50AB98 !important;
+    border-width: thick
+}
+
+body {
+    background-color: #E3F1F1 !important;
+}
+
+.navbar-brand{
+    font-family: 'Indie Flower', cursive;
+    font-size: 2.25rem;
+}
